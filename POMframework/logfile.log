@@ -1,0 +1,54 @@
+2020-04-29 14:08:21,220 INFO  [Log] **************************************************************************************** 
+2020-04-29 14:08:21,221 INFO  [Log] **************************************************************************************** 
+2020-04-29 14:08:21,221 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-04-29 14:08:21,221 INFO  [Log] **************************************************************************************** 
+2020-04-29 14:08:21,221 INFO  [Log] **************************************************************************************** 
+2020-04-29 14:08:22,052 INFO  [Log] Excel sheet opened 
+2020-04-29 14:08:22,052 INFO  [Log] Total number of Row used return as < 3 >. 
+2020-04-29 14:08:25,682 INFO  [Log] New driver instantiated 
+2020-04-29 14:08:26,816 INFO  [Log] Browser maximised 
+2020-04-29 14:08:26,822 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-04-29 14:09:11,086 INFO  [Log] Web application launched successfully 
+2020-04-29 14:09:11,213 INFO  [Log] Warning Ribbon appear on top and Dismissed 
+2020-04-29 14:09:11,244 INFO  [Log] My Account link is found on the Home Page 
+2020-04-29 14:09:13,740 INFO  [Log] Click action is perfromed on My Account link 
+2020-04-29 14:09:13,770 INFO  [Log] Username text box is found on the Login Page 
+2020-04-29 14:09:13,921 INFO  [Log] testuser_121 is entered in UserName text box 
+2020-04-29 14:09:13,947 INFO  [Log] Password text box is found on the Login page 
+2020-04-29 14:09:14,083 INFO  [Log] Ashu@gupta1 is entered in Password text box 
+2020-04-29 14:09:14,106 INFO  [Log] Submit button is found on the Login page 
+2020-04-29 14:09:16,342 INFO  [Log] Click action is performed on Submit button 
+2020-04-29 14:09:16,366 INFO  [Log] Log Out link is found on the Home Page 
+2020-04-29 14:09:16,501 INFO  [Log] Log Out link is found on the Home Page 
+2020-04-29 14:09:21,933 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-04-29 14:09:21,934 INFO  [Log] X 
+2020-04-29 14:09:21,934 INFO  [Log] X 
+2020-04-29 14:09:21,934 INFO  [Log] X 
+2020-04-29 14:09:21,934 INFO  [Log] X 
+2020-04-29 17:11:32,332 INFO  [Log] **************************************************************************************** 
+2020-04-29 17:11:32,345 INFO  [Log] **************************************************************************************** 
+2020-04-29 17:11:32,345 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_003       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2020-04-29 17:11:32,345 INFO  [Log] **************************************************************************************** 
+2020-04-29 17:11:32,345 INFO  [Log] **************************************************************************************** 
+2020-04-29 17:11:33,538 INFO  [Log] Excel sheet opened 
+2020-04-29 17:11:33,539 INFO  [Log] Total number of Row used return as < 3 >. 
+2020-04-29 17:11:44,932 INFO  [Log] New driver instantiated 
+2020-04-29 17:11:46,342 INFO  [Log] Browser maximised 
+2020-04-29 17:11:46,348 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2020-04-29 17:12:47,741 INFO  [Log] Web application launched successfully 
+2020-04-29 17:12:48,119 INFO  [Log] Warning Ribbon appear on top and Dismissed 
+2020-04-29 17:12:48,137 INFO  [Log] My Account link is found on the Home Page 
+2020-04-29 17:13:00,208 INFO  [Log] Click action is perfromed on My Account link 
+2020-04-29 17:13:00,239 INFO  [Log] Username text box is found on the Login Page 
+2020-04-29 17:13:00,406 INFO  [Log] testuser_121 is entered in UserName text box 
+2020-04-29 17:13:00,427 INFO  [Log] Password text box is found on the Login page 
+2020-04-29 17:13:00,565 INFO  [Log] Ashu@gupta1 is entered in Password text box 
+2020-04-29 17:13:00,589 INFO  [Log] Submit button is found on the Login page 
+2020-04-29 17:13:31,337 INFO  [Log] Click action is performed on Submit button 
+2020-04-29 17:13:31,359 INFO  [Log] Log Out link is found on the Home Page 
+2020-04-29 17:13:31,512 INFO  [Log] Log Out link is found on the Home Page 
+2020-04-29 17:13:59,743 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2020-04-29 17:13:59,743 INFO  [Log] X 
+2020-04-29 17:13:59,743 INFO  [Log] X 
+2020-04-29 17:13:59,743 INFO  [Log] X 
+2020-04-29 17:13:59,743 INFO  [Log] X 
